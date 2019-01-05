@@ -1,0 +1,18 @@
+monthlyInterestRate=annualInterestRate/12.0
+lower=balance/12
+upper=(balance*(1+monthlyInterestRate)**12)/12.0
+minFixedMonthlyPayment=(lower+upper)/2.0
+def lowestPayment(balance,annualInterestRate,months):
+	if (months==0):
+		return balance
+	else: 
+		balance=(balance-minFixedMonthlyPayment)*(annualInterestRate/12+1)
+		return lowestPayment(balance,annualInterestRate,months-1)
+while abs(lowestPayment(balance,annualInterestRate,12))>=0.01:
+	if (lowestPayment(balance,annualInterestRate,12)>0):
+		lower=minFixedMonthlyPayment
+		minFixedMonthlyPayment=(lower+upper)/2.0
+	elif(lowestPayment(balance,annualInterestRate,12)<0):
+		upper=minFixedMonthlyPayment
+		minFixedMonthlyPayment=(lower+upper)/2.0
+print("Lowest Payment:",round(minFixedMonthlyPayment,2))
