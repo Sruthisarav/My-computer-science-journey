@@ -10,6 +10,6 @@ I'm making use of the OSSU curriculum to master the basics before I move on to m
 	Started on: 03/01/19 <br />
 	Status: On-hold until 22/01 when the course reopens. Finished all problem sets. Left with exams. <br />
 2. How to code: Simple Data <br />
-	Link:
-	Started on:
-	Status: Starting Soon
+	Link: <br />
+	Started on: <br />
+	Status: Starting Soon <br />
