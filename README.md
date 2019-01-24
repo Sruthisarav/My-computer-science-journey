@@ -7,9 +7,20 @@ I'm making use of the OSSU curriculum to master the basics before I move on to m
 
 1. Introduction to Computer Science and Programming using Python by MIT <br />
 	Link: https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-0 <br />
+	Language: Python <br />
 	Started on: 03/01/19 <br />
 	Status: On-hold until course reopens. Finished all problem sets. Left with exams. <br />
 2. How to code: Simple Data <br />
 	Link: <br />
+	Language: Beginning Student Language <br />
+	Started on: <br />
+	Status: Starting Soon <br />
+3. Essence of Linear Algebra <br />
+	Link: <br />
+	Started on: <br />
+	Status: Starting Soon <br />
+4. How to code: Complex Data <br />
+	Link: <br />
+	Language: Beginning Student Language <br />
 	Started on: <br />
 	Status: Starting Soon <br />
