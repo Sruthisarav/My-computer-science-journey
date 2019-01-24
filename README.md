@@ -13,8 +13,8 @@ I'm making use of the OSSU curriculum to master the basics before I move on to m
 2. How to code: Simple Data <br />
 	Link: <br />
 	Language: Beginning Student Language <br />
-	Started on: <br />
-	Status: Starting Soon <br />
+	Started on: 25/01/2019
+	Status: Currently doing <br />
 3. Essence of Linear Algebra <br />
 	Link: <br />
 	Started on: <br />
