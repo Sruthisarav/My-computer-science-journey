@@ -1,0 +1,5 @@
+(require 2htdp/image)
+(above (beside (square 10 "solid" "blue")
+        (square 10 "solid" "yellow"))
+       (beside (square 10  "solid" "yellow")
+        (square 10  "solid" "blue")))
