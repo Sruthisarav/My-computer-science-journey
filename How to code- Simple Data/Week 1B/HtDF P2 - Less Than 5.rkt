@@ -3,7 +3,7 @@
 (check-expect (stringLength "four") true)
 (check-expect (stringLength "vixen") false)
 (check-expect (stringLength "fives") false)
-;; (define (stringLength s) False)
+;; (define (stringLength s) false)
 ;; (define (stringLength s)
 ;;   (...s))
 (define (stringLength s)
