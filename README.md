@@ -14,7 +14,7 @@ I'm making use of the OSSU curriculum to master the basics before I move on to m
 	Link: <br />
 	Language: Beginning Student Language <br />
 	Started on: 25/01/2019 <br />
-	Status: Currently doing <br />
+	Status: On-hold until i'm back from vacation on 8/02/19 <br />
 3. Essence of Linear Algebra <br />
 	Link: <br />
 	Started on: <br />
