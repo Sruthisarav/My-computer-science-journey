@@ -59,9 +59,9 @@
 ;; Countdown starts from 10.
 ;; 
 (define (main t)
-  (big-bang t                          ; Countdown
-            (on-tick advance-countdown SPEED); Countdown -> Countdown
-            (to-draw render-countdown) ; Countdown -> Image
+  (big-bang t                                 ; Countdown
+            (on-tick advance-countdown SPEED) ; Countdown -> Countdown
+            (to-draw render-countdown)        ; Countdown -> Image
             (on-key handle-key)))             ; Countdown KeyEvent -> Countdown
 
 ;; Countdown -> Countdown
