@@ -64,7 +64,7 @@
 ;; Data definitions:
 (define-struct balloon (x a))
 ;; Balloon is (make-balloon Natural[0, WIDTH], Natural[0,360))
-;; interp. (make-balloon x dx da) is a water balloon with x-coordinate x, velocy dx and angular velocity da
+;; interp. (make-balloon x a) is a water balloon with x-coordinate x, angular velocity a
 ;;         x is the screen coordinates (pixels)
 ;;         a is the angle of rotation (degrees)
 (define B1 (make-balloon 10 0))  ; at 10, angle of 0 degrees
