@@ -99,7 +99,7 @@
 
 
 ;; Balloon -> Image
-;; place appropriate cow image on MTS at (balloon-x b), CTR-Y and appropriate position at (balloon-da b)
+;; place appropriate Balloon image on MTS at (balloon-x b), CTR-Y and appropriate position at (balloon-da b)
 (check-expect (render-balloon(make-balloon 10 100))(place-image (rotate (modulo 100 360) WATER-BALLOON)
                10
                CTR-Y
