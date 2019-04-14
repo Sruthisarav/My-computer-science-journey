@@ -58,7 +58,7 @@
 ;; Data definitions:
 (define-struct object (s a))
 ;; Object is (make-object Natural[5,WIDTH] Natural[0, 360))
-;; interp. (make-object size angle) is a square with size s, angle of rotation a
+;; interp. (make-object s a) is a square with size s, angle of rotation a
 ;;         s is the length of the side of the square
 ;;         a is the angle of rotation of the square
 (define O1 (make-object 10 50)) ;angle of 50 degrees with the square having a length of 10
