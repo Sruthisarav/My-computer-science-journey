@@ -7,15 +7,7 @@
 ; passes, the square stays fixed at the center, but increases in size and rotates 
 ; at a constant speed.Pressing the spacebar resets the world so that the square 
 ; is small and unrotated.
-; 
-; Starting display:
-; .
-; After a few seconds:
-; .
-; After a few more seconds:
-; .
-; Immediately after pressing the spacebar:
-; .
+;
 ; NOTE 1: Remember to follow the HtDW recipe! Be sure to do a proper domain 
 ; analysis before starting to work on the code file.
 ; 
