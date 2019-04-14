@@ -61,7 +61,7 @@
   (... (object-s o)
        (object-a o))) ;template
 
-;; Templates used:
+;; Template rules used:
 ;; Compound: 2 fields
 
 ;; Functions:
