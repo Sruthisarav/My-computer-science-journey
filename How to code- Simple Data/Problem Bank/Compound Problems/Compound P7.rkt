@@ -150,7 +150,7 @@
                CTR-Y
                MTS))
 
-;; Ball Integer Integer BallEvent
+;; Ball Integer Integer BallEvent -> Ball
 ;; Clicking the mouse changes the direction the ball is rolling 
 (check-expect (new-ball (make-ball 50 60 false) 70 50 "button-down") (make-ball 50 60 true))
 (check-expect (new-ball (make-ball 50 60 true) 70 50 "button-down") (make-ball 50 60 false))
