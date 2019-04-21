@@ -20,9 +20,9 @@
 (define MISSILE-IMAGE (ellipse 5 15 "solid" "red"))
 (define MISSILE-SPEED 10)
 
-(define INVADER-IMAGE (overlay (ellipse 21 10 "solid" "blue")
-                               (above (ellipse 10 16 "outline" "blue")
-                                      (square 8 "outline" "white"))))
+(define INVADER-IMAGE (overlay/xy (ellipse 10 16 "outline" "blue")
+                                  -5 7
+                                  (ellipse 21 10 "solid" "blue")))
 (define INVADER-HOR-SPD 1.5)
 (define INVADER-VERT-SPD 1.5)
 (define INVADER-HIT 10)
