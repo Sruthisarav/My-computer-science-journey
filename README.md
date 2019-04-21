@@ -14,13 +14,13 @@ I'm making use of the OSSU curriculum to master the basics before I move on to m
 	Link: <br />
 	Language: Beginning Student Language <br />
 	Started on: 25/01/2019 <br />
-	Status: On-hold until i'm back from vacation on 8/02/19 <br />
-3. Essence of Linear Algebra <br />
-	Link: <br />
-	Started on: <br />
-	Status: Starting Soon <br />
-4. How to code: Complex Data <br />
+	Status: Completed on 21/04/2019 <br />
+3. How to code: Complex Data <br />
 	Link: <br />
 	Language: Beginning Student Language <br />
+	Started on: <br />
+	Status: Starting Soon <br />
+4. Essence of Linear Algebra <br />
+	Link: <br />
 	Started on: <br />
 	Status: Starting Soon <br />
