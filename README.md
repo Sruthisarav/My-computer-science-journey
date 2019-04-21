@@ -11,7 +11,7 @@ I'm making use of the OSSU curriculum to master the basics before I move on to m
 	Started on: 03/01/19 <br />
 	Status: On-hold until course reopens. Finished all problem sets. Left with exams. <br />
 2. How to code: Simple Data <br />
-	Link: <br />
+	Link: https://www.edx.org/course/how-code-simple-data-ubcx-htc1x <br />
 	Language: Beginning Student Language <br />
 	Started on: 25/01/2019 <br />
 	Status: Completed on 21/04/2019 <br />
