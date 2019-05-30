@@ -12,13 +12,13 @@ I'm making use of the OSSU curriculum to master the basics before I move on to m
 	Status: On-hold until course reopens. Finished all problem sets. Left with exams. <br />
 2. How to code: Simple Data <br />
 	Link: https://www.edx.org/course/how-code-simple-data-ubcx-htc1x <br />
-	Language: Beginning Student Language <br />
+	Language: Beginning Student Language(Racket) <br />
 	Started on: 25/01/2019 <br />
 	Status: Completed on 21/04/2019 <br />
 3. How to code: Complex Data <br />
 	Link: <br />
-	Language: Beginning Student Language <br />
-	Started on: <br />
+	Language: Beginning Student Language(Racket) <br />
+	Started on: 30/05/2019 <br />
 	Status: Starting Soon <br />
 4. Essence of Linear Algebra <br />
 	Link: <br />
