@@ -9,7 +9,7 @@
 ;; ============================================================================
 
 ;; (listof X) Natural -> (listof X)
-;; produce list without the nth element
+;; produces a list after removing every nth element from lox
 (check-expect (dropn (list 1 2 3 4 5 6 7) 2) (list 1 2 4 5 7))
 (check-expect (dropn (list 1 2 3 4 5 6 7) 3) (list 1 2 3 5 6 7))
 
@@ -17,9 +17,10 @@
 
 (define (dropn lox0 n)
   ;; acc: Natural; 1-based position of (first lox) in lox0
-  ;; (dropn (list 1 2 3 4 5 6 7) 2)
-  ;; (dropn (list   2 3 4 5 6 7) 2)
+  ;; (dropn (list 1 2 3 4 5 6 7) 0)
+  ;; (dropn (list   2 3 4 5 6 7) 1)
   ;; (dropn (list     3 4 5 6 7) 2)
+  ;; (dropn (list       4 5 6 7) 0)
   (local [(define (dropn lox acc)
             (cond [(empty? lox) empty]
                   [else
