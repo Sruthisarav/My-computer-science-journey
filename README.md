@@ -19,7 +19,7 @@ I'm making use of the OSSU curriculum to master the basics before I move on to m
 	Link: <br />
 	Language: Beginning Student Language(Racket) <br />
 	Started on: 30/05/2019 <br />
-	Status: Starting Soon <br />
+	Status: Completed on 02/06/2019 <br />
 4. Essence of Linear Algebra <br />
 	Link: <br />
 	Started on: <br />
