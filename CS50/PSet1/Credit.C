@@ -47,7 +47,7 @@ int sum_two(long input, int len)
     int sum=0;
     for (int i=len; i>0; i-=2)
     {
-        sum+=i;
+        sum+= digit(input, len-i);
     }
     return sum;
 }
