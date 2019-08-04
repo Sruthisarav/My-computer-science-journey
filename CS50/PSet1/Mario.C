@@ -15,10 +15,10 @@ int main(void)
 {
     int height;
     do {
-        height = get_int("Give me a positive integer between 1 and 20: ");
+        height = get_int("Give me a positive integer between 1 and 8: ");
         printf("Height: %i\n", height);
     }
-    while (height<1 || height>20);
+    while (height<1 || height>8);
     
     for(int i=1; i<=height; i++)
     {
