@@ -114,7 +114,7 @@ int main(void)
                 }
                 else 
                 {
-                    printf("INVALID \n");
+                    printf("INVALID\n");
                 }
                 break;
             default:
@@ -127,4 +127,3 @@ int main(void)
         printf("INVALID\n");
     }
 }
-
