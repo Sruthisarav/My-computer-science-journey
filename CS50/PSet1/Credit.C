@@ -66,24 +66,23 @@ int main(void)
     int total_sum = sum1 + sum2;
     if (total_sum % 10)
     {
+        // first two digits of card no. to check AmericanExpress Card No.
+        long ae_divisor = pow(10, 13);
+        long two_digits = input / ae_divisor;
+        // first two digits of card no. to check MasterCard No.
+        long mc_divisor = pow(10, 14);
+        long two_digits_mc = input / mc_divisor;
         switch(len)
         {
             // Checking for American Express Card No.
             case 15:
-                if (digit(input, len-1) == 3)
+                if (two_digits != 34 && two_digits !=37)
                 {
-                    if (digit(input, len-2) == 4 || digit(input, len-2) == 7)
-                    {
-                        printf("AMEX\n");
-                    }
-                    else
-                    {
-                        printf("INVALID\n");
-                    }
+                    printf("INVALID\n");
                 }
                 else
                 {
-                    printf("INVALID\n");
+                    printf("AMEX\n");
                 }
                 break;
             // Checking for Visa Card No.
@@ -103,15 +102,9 @@ int main(void)
                 {
                     printf("VISA\n");
                 }
-                else if (digit(input, len-1) == 4)
+                else if (two_digits_mc == 51 || two_digits == 52 || two_digits == 53 || two_digits == 54 || two_digits == 55)
                 {
-                    if (digit(input, len-2) == 1 || digit(input, len-2) == 2 || digit(input, len-2) == 3 || digit(input, len-2) == 4 || digit(input, len-2) == 5)
-                    {
-                        printf("MASTERCARD\n");
-                    }
-                    else {
-                        printf("INVALID\n");
-                    }
+                    printf("MASTERCARD\n");
                 }
                 else 
                 {
