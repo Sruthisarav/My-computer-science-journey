@@ -1,5 +1,6 @@
 // Cracked Passwords using this programme:
 // bjbrown:50GApilQSG3E2 -> UPenn
+// brian:51.xJagtPnb6s -> TF
 
 #include <cs50.h>
 #include <stdio.h>
