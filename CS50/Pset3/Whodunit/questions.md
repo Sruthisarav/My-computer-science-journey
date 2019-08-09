@@ -1,6 +1,6 @@
 # Questions
 
-NOTE: I searched online for some of the answers to some technical questions. 
+#NOTE: I searched online for some of the answers to some technical questions. 
 
 ## What's `stdint.h`?
 
