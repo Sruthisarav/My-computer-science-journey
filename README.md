@@ -20,7 +20,7 @@ I'm making use of the OSSU curriculum to master the basics before I move on to m
 	Language: Beginning Student Language(Racket) <br />
 	Started on: 30/05/2019 <br />
 	Status: Completed on 02/06/2019 <br />
-4. Essence of Linear Algebra <br />
-	Link: <br />
-	Started on: <br />
-	Status: Starting Soon <br />
+4. CS50: Introduction to Computer Science from Harvard <br />
+	Link: https://www.edx.org/course/cs50s-introduction-to-computer-science <br />
+	Started on: 04/08/2019 <br />
+	Status: At Week 5 <br />
