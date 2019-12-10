@@ -26,3 +26,7 @@ As of August 2019, I'm a computer science undergraduate student at NUS. I will s
 	Link: https://www.edx.org/course/cs50s-introduction-to-computer-science <br />
 	Started on: 04/08/2019 <br />
 	Status: At Week 5 <br />
+5. App Open Academy <br />
+	Link: https://open.appacademy.io/ <br />
+	Started on: ??/11/2019 <br />
+	Status: Software Engineering Foundations <br />
