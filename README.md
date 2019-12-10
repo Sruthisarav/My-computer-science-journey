@@ -11,7 +11,7 @@ As of August 2019, I'm a computer science undergraduate student at NUS. I will s
 	Link: https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-0 <br />
 	Language: Python <br />
 	Started on: 03/01/19 <br />
-	Status: On-hold until course reopens. Finished all problem sets. Left with exams. <br />
+	Status: Completed on 15/01/19 <br />
 2. How to code: Simple Data <br />
 	Link: https://www.edx.org/course/how-code-simple-data-ubcx-htc1x <br />
 	Language: Beginning Student Language(Racket) <br />
