@@ -4,7 +4,7 @@ This is my progress in mastering basic computer science concepts using online re
 
 I'm making use of the OSSU curriculum and p1xt's guide to master the basics before I move on to my own path to specialize in specific areas so you will see a lot of similarities in the first half of the courses I'll be taking. The order of courses is based on the order in which I had taken them.
 
-As of August 2019, I'm a computer science undergraduate student at NUS. I will still continue to take online courses as there are still many things I would like to learn while I still have the time. 
+As of August 2019, I'm a computer science undergraduate at NUS. I will still continue to take online courses as there are still many things I would like to learn while I still have the time. 
 
 
 1. Introduction to Computer Science and Programming using Python by MIT <br />
