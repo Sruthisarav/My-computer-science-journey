@@ -30,3 +30,8 @@ As of August 2019, I'm a computer science undergraduate at NUS. I will still con
 	Link: https://open.appacademy.io/ <br />
 	Started on: ??/11/2019 <br />
 	Status: Software Engineering Foundations <br />
+	
+6. JetBrains Academy - Hyperskill <br />
+	Link: https://hi.hyperskill.org/ <br />
+	Started on: 03/12/2019 <br />
+	Status: Project Encryption-Decryption
