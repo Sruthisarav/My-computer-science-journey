@@ -35,3 +35,7 @@ As of August 2019, I'm a computer science undergraduate at NUS. I will still con
 	Link: https://hi.hyperskill.org/ <br />
 	Started on: 03/12/2019 <br />
 	Status: Project Encryption-Decryption
+	
+7. The 	Odin Project <br />
+	Link:
+	Started on: 19/12/2019
