@@ -37,5 +37,6 @@ As of August 2019, I'm a computer science undergraduate at NUS. I will still con
 	Status: Project Encryption-Decryption
 	
 7. The 	Odin Project <br />
-	Link:
-	Started on: 19/12/2019
+	Link: https://www.theodinproject.com/ <br />
+	Started on: 19/12/2019 <br />
+	Status: Completed Web Development 101
