@@ -26,6 +26,11 @@ class Game
             start
         end
     end
+    def print_feedback
+        print "Feedback: "
+        @feedback.each {|ele| print "#{ele} "}
+        puts ""
+    end
     def code_breaker
         @board = Board.new
         puts "You have 12 tries to guess the secret code."
@@ -36,11 +41,7 @@ class Game
             move = @player.your_move
             @@turns -= 1
             @feedback = @board.feedback(move)
-            print "Your Feedback: "
-            @feedback.each do |ele|
-                print "#{ele} "
-            end
-            puts ""
+            print_feedback
             result = self.game_over?(@feedback)
             over = result[0]
         end
@@ -60,11 +61,7 @@ class Game
             puts ""
             @@turns -= 1
             @feedback = @board.feedback(move)
-            print "Feedback: "
-            @feedback.each do |ele|
-                print "#{ele} "
-            end
-            puts ""
+            print_feedback
             result = self.game_over?(@feedback)
             over = result[0]
         end
