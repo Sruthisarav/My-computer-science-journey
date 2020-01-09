@@ -55,9 +55,7 @@ class Game
         while(!over)
             move = @computer.your_move(code, @feedback)
             print "Computer's move: "
-            move.each do |ele|
-                print "#{ele} "
-            end
+            move.each {|ele| print "#{ele} "}
             puts ""
             @@turns -= 1
             @feedback = @board.feedback(move)
