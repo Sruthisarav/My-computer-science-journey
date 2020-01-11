@@ -70,8 +70,8 @@ p '---'
 p [1, 4, 5].my_any? {|num| num >= 5}
 p ['a', 'b', 'c'].my_any? {|char| char == 'd'}
 p '---'
-p [1, 3, 5].none? {|num| num < 0}
-p [1, 5, 6].none? {|num| num > 5}
+p [1, 3, 5].my_none? {|num| num < 0}
+p [1, 5, 6].my_none? {|num| num > 5}
 p '---'
 p [1, 5, 7, 9].my_count {|num| num >= 6}
 p '---'
