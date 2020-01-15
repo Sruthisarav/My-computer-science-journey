@@ -37,4 +37,4 @@ As of August 2019, I'm a computer science undergraduate at NUS. I will still con
 7. The 	Odin Project <br />
 	Link: https://www.theodinproject.com/ <br />
 	Started on: 19/12/2019 <br />
-	Status: Completed Web Development 101
+	Status: Completed SQL and Databases
