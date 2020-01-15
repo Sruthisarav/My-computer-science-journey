@@ -1,6 +1,6 @@
 require 'rest-client'
 
-class BlingSearch
+class BingSearch
     def initialize
         @search = "https://www.bing.com/search?q="
         self.get_input
